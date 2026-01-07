@@ -1,5 +1,5 @@
 def main():
-    print("Hello, World!")
+    print("Hello")
     print("This is my first Python program.")
     print("Repository setup successful!")
 
